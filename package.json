@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/i5ting/base2-examples#readme",
   "dependencies": {
-    "base2": "^1.0.10",
+    "base2": "^1.0.13",
     "express": "^4.13.3",
     "jade": "^1.11.0"
   },
